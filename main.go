@@ -50,6 +50,7 @@ func main() {
 		os.Exit(0)
 	}
 
+	fmt.Println("result of our API")
 	fmt.Println("teks", factResponse.Teks)
 	fmt.Println("tipe", factResponse.Tipe)
 }
