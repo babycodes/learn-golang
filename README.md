@@ -4,4 +4,4 @@ because of being professional trader
 glad that is left coding and success on trading
 but i want to have coding skill again and make it professional
 in the next 2 years from this day BISMILLAH
-gotooogooo
+gotooogoo
