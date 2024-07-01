@@ -10,7 +10,7 @@ import (
 
 // Struct dengan json struct tag
 type FactResponse struct {
-	Text string `json:"text"`
+	Teks string `json:"text"`
 	Tipe string `json:"type"`
 }
 
@@ -50,6 +50,6 @@ func main() {
 		os.Exit(0)
 	}
 
-	fmt.Println("text", factResponse.Text)
+	fmt.Println("teks", factResponse.Teks)
 	fmt.Println("tipe", factResponse.Tipe)
 }
